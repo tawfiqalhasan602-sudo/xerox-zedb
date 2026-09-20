@@ -1,0 +1,8 @@
+{
+  "name": "ZEDBEAUTY",
+  "description": "Premium, modern & elegant beauty, skincare & cosmetics e-commerce brand in Bangladesh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

@@ -1,0 +1,249 @@
+{
+  "products": [
+    {
+      "id": "cathy-doll-white-cushion-face-wash",
+      "name": "White Cushion Facial Foam Cleanser 120ml Cathy Doll Face Wash (Made In Korea)",
+      "brand": "Cathy Doll",
+      "shortDescription": "Gentle cushion foam face wash with Snail Mucin & Berry Extracts for deep cleansing, radiance & dark spot reduction.",
+      "description": "Experience Korean skincare excellence with Cathy Doll White Cushion Facial Foam Cleanser (120ml). Formulated with dense, plush cushion foam, this gentle facial cleanser penetrates deep into pores to lift away stubborn makeup, dirt, excess sebum, and daily urban pollutants without stripping your skin's natural moisture barrier. Enriched with Snail Mucin, Raspberry, Blueberry, and Redcurrant extracts, it actively brightens dull skin tones, fades dark spots, and restores a youthful, glowing complexion.",
+      "price": 790,
+      "originalPrice": 990,
+      "stockQuantity": 45,
+      "productStatus": "Active",
+      "rating": 4.9,
+      "reviewCount": 218,
+      "category": "Face Wash",
+      "image": "/cathy_doll_cushion.jpg",
+      "gallery": [
+        "/cathy_doll_cushion.jpg",
+        "/cathy_doll_foam.jpg"
+      ],
+      "isBestSeller": true,
+      "isNew": true,
+      "stockStatus": "In Stock",
+      "benefits": [
+        "Deeply removes makeup, impurities & daily urban pollutants",
+        "Infused with Snail Mucin & Antioxidant Berry Complex",
+        "Cleanses & revives dull skin for a radiant, glowing finish",
+        "Dullness & dark spot reduction with gentle non-drying cushion foam",
+        "100% Genuine formulation — Made In Korea"
+      ],
+      "howToUse": "Squeeze an appropriate amount (about 1-2 cm) onto wet palms. Work into a rich, dense cushion lather with a little water. Gently massage over face in circular motions for 30-60 seconds. Rinse thoroughly with lukewarm water.",
+      "ingredients": "Water, Myristic Acid, Glycerin, Potassium Hydroxide, Lauric Acid, Stearic Acid, Snail Secretion Filtrate, Rubus Idaeus (Raspberry) Fruit Extract, Vaccinium Angustifolium (Blueberry) Fruit Extract, Ribes Rubrum (Redcurrant) Fruit Extract, Niacinamide, Collagen Extract, Fragrance.",
+      "skinType": [
+        "All Skin Types",
+        "Dull Skin",
+        "Oily",
+        "Combination",
+        "Sensitive"
+      ],
+      "volume": "120ml / 4.23 fl. oz."
+    },
+    {
+      "id": "osufi-collagen-face-serum-300ml",
+      "name": "Osufi Collagen Face Serum - 300ml Made In Korea",
+      "brand": "Osufi",
+      "shortDescription": "Deeply hydrating & firming collagen face serum for radiant skin elasticity and anti-aging care (300ml).",
+      "description": "Transform your daily skincare routine with Osufi Collagen Face Serum (300ml), imported directly from South Korea. Enriched with high-concentration Hydrolyzed Collagen, Hyaluronic Acid, and Niacinamide, this jumbo-sized luxury facial serum deeply hydrates, tightens sagging skin, restores elasticity, and visibly fades fine lines and dark spots for a glowing glass-skin finish.",
+      "price": 1250,
+      "originalPrice": 1650,
+      "stockQuantity": 35,
+      "productStatus": "Active",
+      "rating": 5.0,
+      "reviewCount": 94,
+      "category": "Skincare",
+      "image": "/osufi_collagen_serum.jpg",
+      "gallery": [
+        "/osufi_collagen_serum.jpg",
+        "/cathy_doll_foam.jpg"
+      ],
+      "isBestSeller": true,
+      "isNew": true,
+      "stockStatus": "In Stock",
+      "benefits": [
+        "Deep hydration & intense collagen boost for firm, youthful skin",
+        "Restores skin elasticity and smoothes fine lines & wrinkles",
+        "Jumbo 300ml size for face, neck and full body moisture care",
+        "Niacinamide enriched for dark spot reduction & natural radiance",
+        "100% Genuine imported formulation — Made In Korea"
+      ],
+      "howToUse": "After cleansing and toning, apply 3-4 drops of Osufi Collagen Serum to face and neck. Gently pat until fully absorbed. Follow with your favorite moisturizer morning and night.",
+      "ingredients": "Water, Hydrolyzed Collagen (300,000ppm), Glycerin, Niacinamide, Sodium Hyaluronate, Centella Asiatica Extract, Adenosine, Carbomer, Triethanolamine, Ethylhexylglycerin, Fragrance.",
+      "skinType": [
+        "All Skin Types",
+        "Dry Skin",
+        "Aging Skin",
+        "Dull Skin",
+        "Sensitive"
+      ],
+      "volume": "300ml / 10.14 fl. oz."
+    }
+  ],
+  "orders": [
+    {
+      "id": "ORD-8921",
+      "date": "2026-09-19T16:32:00.207Z",
+      "items": [
+        {
+          "product": {
+            "id": "cathy-doll-white-cushion-face-wash",
+            "name": "White Cushion Facial Foam Cleanser 120ml Cathy Doll Face Wash (Made In Korea)",
+            "price": 790,
+            "image": "/cathy_doll_cushion.jpg",
+            "category": "Face Wash",
+            "brand": "Cathy Doll"
+          },
+          "quantity": 2
+        }
+      ],
+      "shippingAddress": {
+        "fullName": "Nusrat Jahan",
+        "phone": "01712345678",
+        "email": "nusrat.jahan@gmail.com",
+        "division": "Dhaka",
+        "district": "Dhaka",
+        "thanaArea": "Gulshan-2",
+        "fullAddress": "House 45, Road 11, Block D, Gulshan-2, Dhaka",
+        "notes": "Please call before delivery"
+      },
+      "subtotal": 1580,
+      "shippingFee": 60,
+      "discount": 100,
+      "total": 1540,
+      "paymentMethod": "bkash",
+      "paymentStatus": "Paid",
+      "orderStatus": "Confirmed",
+      "estimatedDelivery": "2-3 Days",
+      "trxId": "8B73K9LM2"
+    },
+    {
+      "id": "ORD-8920",
+      "date": "2026-09-18T17:32:00.207Z",
+      "items": [
+        {
+          "product": {
+            "id": "cathy-doll-white-cushion-face-wash",
+            "name": "White Cushion Facial Foam Cleanser 120ml Cathy Doll Face Wash (Made In Korea)",
+            "price": 790,
+            "image": "/cathy_doll_cushion.jpg",
+            "category": "Face Wash",
+            "brand": "Cathy Doll"
+          },
+          "quantity": 1
+        }
+      ],
+      "shippingAddress": {
+        "fullName": "Tanvir Hasan",
+        "phone": "01898765432",
+        "email": "tanvir.h@yahoo.com",
+        "division": "Chittagong",
+        "district": "Chittagong",
+        "thanaArea": "Agrabad",
+        "fullAddress": "Lane 3, House 12, Agrabad C/A, Chittagong",
+        "notes": ""
+      },
+      "subtotal": 790,
+      "shippingFee": 120,
+      "discount": 0,
+      "total": 910,
+      "paymentMethod": "cod",
+      "paymentStatus": "Cash on Delivery",
+      "orderStatus": "Pending",
+      "estimatedDelivery": "3-5 Days"
+    }
+  ],
+  "customers": [
+    {
+      "id": "CUST-101",
+      "fullName": "Nusrat Jahan",
+      "email": "nusrat.jahan@gmail.com",
+      "phone": "01712345678",
+      "address": "House 45, Road 11, Gulshan-2, Dhaka",
+      "totalOrders": 1,
+      "totalSpent": 1540,
+      "lastOrderDate": "2026-09-19T16:32:00.207Z"
+    },
+    {
+      "id": "CUST-102",
+      "fullName": "Tanvir Hasan",
+      "email": "tanvir.h@yahoo.com",
+      "phone": "01898765432",
+      "address": "Lane 3, Agrabad C/A, Chittagong",
+      "totalOrders": 1,
+      "totalSpent": 910,
+      "lastOrderDate": "2026-09-18T17:32:00.207Z"
+    }
+  ],
+  "coupons": [
+    {
+      "id": "CPN-1",
+      "code": "KBEAUTY10",
+      "discountType": "percentage",
+      "discountValue": 10,
+      "minPurchase": 1000,
+      "usageCount": 14,
+      "usageLimit": 100,
+      "expiryDate": "2026-12-31",
+      "isActive": true
+    },
+    {
+      "id": "CPN-2",
+      "code": "ZED100",
+      "discountType": "fixed",
+      "discountValue": 100,
+      "minPurchase": 700,
+      "usageCount": 22,
+      "usageLimit": 200,
+      "expiryDate": "2026-12-31",
+      "isActive": true
+    }
+  ],
+  "settings": {
+    "storeName": "ZEDBEAUTY",
+    "announcementText": "✨ 100% Original Korean Skincare — Fast Shipping Across Bangladesh | Free Shipping Over ৳ 1,500!",
+    "supportPhone": "+880 1814-024099",
+    "supportEmail": "support@zedbeauty.com.bd",
+    "address": "House 8/1, Road 2, Block D, Nazira Bazar, Dhaka-1100, Bangladesh",
+    "insideDhakaFee": 60,
+    "outsideDhakaFee": 120,
+    "freeShippingThreshold": 1500,
+    "heroBadgeText": "OFFICIAL EXCLUSIVE PRODUCT LAUNCH",
+    "heroTitle": "White Cushion Facial Foam Cleanser 120ml",
+    "heroSubtitle": "Cathy Doll Face Wash (Made In Korea) — Gentle plush cushion foam cleanser enriched with Snail Mucin & Berry Extracts for deep makeup removal, intense radiance & dark spot reduction.",
+    "heroImageUrl": "/cathy_doll_cushion.jpg",
+    "heroPrice": 790,
+    "heroOriginalPrice": 990,
+    "collectionBannerBadge": "100% ORIGINAL MADE IN KOREA",
+    "collectionBannerTitle": "Plush Cushion Foam, Instant Glow.",
+    "collectionBannerSubtitle": "Formulated with Snail Mucin, Berry Complex & Collagen to deeply cleanse makeup, remove urban pollutants, and reduce dark spots for a radiant, soft skin feel.",
+    "collectionBannerImageUrl": "/cathy_doll_cushion.jpg",
+    "collectionBannerButtonText": "Order Cathy Doll Face Wash (৳ 790)",
+    "categoryList": [
+      {
+        "id": "cat-1",
+        "name": "Face Wash",
+        "description": "Deep makeup removal & plush cushion foam cleansing",
+        "image": "/cathy_doll_cushion.jpg",
+        "itemCount": "1 Exclusive Item"
+      },
+      {
+        "id": "cat-2",
+        "name": "Cleanser & Brightening",
+        "description": "Formulated with Snail Mucin & Berries to reduce dark spots",
+        "image": "/cathy_doll_foam.jpg",
+        "itemCount": "Korean Formula"
+      },
+      {
+        "id": "cat-3",
+        "name": "Made In Korea",
+        "description": "100% Authentic imported Korean facial foam cleanser",
+        "image": "/osufi_collagen_serum.jpg",
+        "itemCount": "100% Original"
+      }
+    ]
+  },
+  "adminCredentials": {
+    "email": "admin@zedbeauty.com",
+    "password": "admin123password"
+  }
+}
